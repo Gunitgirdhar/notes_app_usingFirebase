@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680308237166",
+    "project_id": "fluttercli-db114",
+    "storage_bucket": "fluttercli-db114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680308237166:android:a88b7d8e970553595d177f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_cli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqXJOSNAjTwaqHJd93lS101f-MJXD7VgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
